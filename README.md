@@ -1,1 +1,1 @@
-# Qr-Code-Generator-streamlit-
+# Qr-Code-Generator-streamlit
